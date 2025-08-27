@@ -8,6 +8,11 @@ The prototype is shown on a webpage with a simple gradient background, glass-sty
 - Embedded in HTML using an `<iframe>`  
 - Hosted online using **GitHub Pages**
 
+## Tools
+- Figma  
+- HTML / CSS / JavaScript  
+- GitHub Pages
+
 ## What I Learned
 Prototyping lets you **test designs and user flows** without writing full code.  
 It helps you see how an app or website will work before building it fully.
