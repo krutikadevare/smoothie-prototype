@@ -3,7 +3,7 @@
 This is a beginner project that hosts my **Smoothie UI prototype** from Figma.  
 The prototype is shown on a webpage with a simple gradient background, glass-style frame, and loading spinner.
 
-#Preview
+# Preview
 https://krutikadevare.github.io/smoothie-prototype/
 
 ## How It Works
